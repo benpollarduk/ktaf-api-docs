@@ -244,6 +244,36 @@ $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/arguments/#/
 $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/commandHelp/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.commands/-custom-command/command-help.html
 $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/invoke/#com.github.benpollarduk.ktaf.logic.Game/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.commands/-custom-command/invoke.html
 $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/isPlayerVisible/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.commands/-custom-command/is-player-visible.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/EndOfParagraphInstruction///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-end-of-paragraph-instruction/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/EndOfParagraphInstruction/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-end-of-paragraph-instruction/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/First///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-first/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/First/First/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-first/-first.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/First/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-first/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/GoTo///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-go-to/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/GoTo/GoTo/#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-go-to/-go-to.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/GoTo/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-go-to/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/GoTo/index/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-go-to/--index--.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Jump///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-jump/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Jump/Jump/#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-jump/-jump.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Jump/delta/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-jump/delta.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Jump/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-jump/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Last///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-last/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Last/Last/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-last/-last.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Last/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-last/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Next///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-next/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Next/Next/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-next/-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Next/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-next/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Previous///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-previous/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Previous/Previous/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-previous/-previous.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Previous/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-previous/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Repeat///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-repeat/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Repeat/Repeat/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-repeat/-repeat.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/Repeat/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-repeat/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ToName///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-to-name/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ToName/ToName/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-to-name/-to-name.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ToName/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-to-name/get-index-of-next.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ToName/name/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-to-name/name.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/index.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Conversation.Companion///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-conversation/-companion/index.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Conversation.Companion/empty/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-conversation/-companion/empty.html
@@ -261,11 +291,12 @@ $dokka.location:com.github.benpollarduk.ktaf.conversations/LogItem/LogItem/#com.
 $dokka.location:com.github.benpollarduk.ktaf.conversations/LogItem/line/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-log-item/line.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/LogItem/participant/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-log-item/participant.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/index.html
-$dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/Paragraph/#kotlin.String#kotlin.Int#kotlin.Function1[com.github.benpollarduk.ktaf.logic.Game,kotlin.Unit]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/-paragraph.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/Paragraph/#kotlin.String#com.github.benpollarduk.ktaf.conversations.instructions.EndOfParagraphInstruction#kotlin.String#kotlin.Function1[com.github.benpollarduk.ktaf.logic.Game,kotlin.Unit]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/-paragraph.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/action/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/action.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/canRespond/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/can-respond.html
-$dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/delta/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/delta.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/instruction/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/instruction.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/line/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/line.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/name/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/name.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Paragraph/responses/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-paragraph/responses.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Participant.OTHER///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}ktaf/com.github.benpollarduk.ktaf.conversations/-participant/-o-t-h-e-r/index.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Participant.PLAYER///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}ktaf/com.github.benpollarduk.ktaf.conversations/-participant/-p-l-a-y-e-r/index.html
@@ -274,8 +305,8 @@ $dokka.location:com.github.benpollarduk.ktaf.conversations/Participant/entries/#
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Participant/valueOf/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-participant/value-of.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Participant/values/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-participant/values.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Response///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/index.html
-$dokka.location:com.github.benpollarduk.ktaf.conversations/Response/Response/#kotlin.String#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/-response.html
-$dokka.location:com.github.benpollarduk.ktaf.conversations/Response/delta/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/delta.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations/Response/Response/#kotlin.String#com.github.benpollarduk.ktaf.conversations.instructions.EndOfParagraphInstruction/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/-response.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations/Response/instruction/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/instruction.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations/Response/line/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations/-response/line.html
 $dokka.location:com.github.benpollarduk.ktaf.extensions////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.extensions/index.html
 $dokka.location:com.github.benpollarduk.ktaf.extensions//addSentence/kotlin.String#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.extensions/add-sentence.html
@@ -723,6 +754,7 @@ com.github.benpollarduk.ktaf.assets.interaction
 com.github.benpollarduk.ktaf.assets.locations
 com.github.benpollarduk.ktaf.commands
 com.github.benpollarduk.ktaf.conversations
+com.github.benpollarduk.ktaf.conversations.instructions
 com.github.benpollarduk.ktaf.extensions
 com.github.benpollarduk.ktaf.interpretation
 com.github.benpollarduk.ktaf.io
