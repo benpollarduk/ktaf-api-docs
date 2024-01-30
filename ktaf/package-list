@@ -1,5 +1,26 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/index.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/index.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute/Attribute/#kotlin.String#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/-attribute.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute/description/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/description.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute/maximum/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/maximum.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute/minimum/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/minimum.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/Attribute/name/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute/name.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/index.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/AttributeManager/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/-attribute-manager.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/add/#com.github.benpollarduk.ktaf.assets.attributes.Attribute#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/add.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/add/#kotlin.String#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/add.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/count/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/count.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/getAttributes/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/get-attributes.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/getValue/#com.github.benpollarduk.ktaf.assets.attributes.Attribute/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/get-value.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/getValue/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/get-value.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/remove/#com.github.benpollarduk.ktaf.assets.attributes.Attribute/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/remove.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/remove/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/remove.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/removeAll/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/remove-all.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/subtract/#com.github.benpollarduk.ktaf.assets.attributes.Attribute#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/subtract.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/subtract/#kotlin.String#kotlin.Int/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/subtract.html
+$dokka.location:com.github.benpollarduk.ktaf.assets.attributes/AttributeManager/toMap/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.attributes/-attribute-manager/to-map.html
 $dokka.location:com.github.benpollarduk.ktaf.assets.characters////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.characters/index.html
 $dokka.location:com.github.benpollarduk.ktaf.assets.characters/Character///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.characters/-character/index.html
 $dokka.location:com.github.benpollarduk.ktaf.assets.characters/Character/Character/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets.characters/-character/-character.html
@@ -190,12 +211,14 @@ $dokka.location:com.github.benpollarduk.ktaf.assets/Description///PointingToDecl
 $dokka.location:com.github.benpollarduk.ktaf.assets/Description/Description/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-description/-description.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Description/getDescription/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-description/get-description.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Examinable///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/index.html
+$dokka.location:com.github.benpollarduk.ktaf.assets/Examinable/attributes/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/attributes.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Examinable/commands/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/commands.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Examinable/description/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/description.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Examinable/examine/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/examine.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/Examinable/identifier/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable/identifier.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/index.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject/ExaminableObject/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/-examinable-object.html
+$dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject/attributes/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/attributes.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject/commands/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/commands.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject/description/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/description.html
 $dokka.location:com.github.benpollarduk.ktaf.assets/ExaminableObject/examination/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.assets/-examinable-object/examination.html
@@ -245,6 +268,10 @@ $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/commandHelp/
 $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/invoke/#com.github.benpollarduk.ktaf.logic.Game/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.commands/-custom-command/invoke.html
 $dokka.location:com.github.benpollarduk.ktaf.commands/CustomCommand/isPlayerVisible/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.commands/-custom-command/is-player-visible.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations.instructions////PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ByCallback///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-by-callback/index.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ByCallback/ByCallback/#kotlin.Function0[com.github.benpollarduk.ktaf.conversations.instructions.EndOfParagraphInstruction]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-by-callback/-by-callback.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ByCallback/callback/#/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-by-callback/callback.html
+$dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/ByCallback/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-by-callback/get-index-of-next.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/EndOfParagraphInstruction///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-end-of-paragraph-instruction/index.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/EndOfParagraphInstruction/getIndexOfNext/#com.github.benpollarduk.ktaf.conversations.Paragraph#kotlin.collections.List[com.github.benpollarduk.ktaf.conversations.Paragraph]/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-end-of-paragraph-instruction/get-index-of-next.html
 $dokka.location:com.github.benpollarduk.ktaf.conversations.instructions/First///PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.conversations.instructions/-first/index.html
@@ -749,6 +776,7 @@ $dokka.location:com.github.benpollarduk.ktaf.utilities/RegionMaker/make/#com.git
 $dokka.location:com.github.benpollarduk.ktaf.utilities/RegionMaker/make/#kotlin.String/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.utilities/-region-maker/make.html
 $dokka.location:com.github.benpollarduk.ktaf.utilities/RegionMaker/set/#kotlin.Int#kotlin.Int#kotlin.Int#com.github.benpollarduk.ktaf.assets.locations.Room/PointingToDeclaration/ktaf/com.github.benpollarduk.ktaf.utilities/-region-maker/set.html
 com.github.benpollarduk.ktaf.assets
+com.github.benpollarduk.ktaf.assets.attributes
 com.github.benpollarduk.ktaf.assets.characters
 com.github.benpollarduk.ktaf.assets.interaction
 com.github.benpollarduk.ktaf.assets.locations
